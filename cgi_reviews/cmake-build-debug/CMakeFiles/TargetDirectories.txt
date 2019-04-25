@@ -1,0 +1,3 @@
+D:/Konstantin/C++/cgi_reviews/cmake-build-debug/CMakeFiles/cgi_reviews.dir
+D:/Konstantin/C++/cgi_reviews/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Konstantin/C++/cgi_reviews/cmake-build-debug/CMakeFiles/rebuild_cache.dir

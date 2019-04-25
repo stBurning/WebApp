@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Konstantin/C++/cgi_reviews/cgi/cgi.h
+sec_api/stdlib_s.h
+-
+
+D:/Konstantin/C++/cgi_reviews/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+string
+-
+cgi/cgi.h
+D:/Konstantin/C++/cgi_reviews/cgi/cgi.h
+
